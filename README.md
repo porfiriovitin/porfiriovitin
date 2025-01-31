@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Tenho 19 anos e sou um estudante dedicado de Engenharia de Software. Habituado com tecnologia desde novo, desenvolvi um grande interesse por programação. Estou comprometido em adquirir habilidades sólidas para contribuir significativamente nas diversas áreas profissionais da tecnologia da informação.</p>
+<p align="center">Tenho 29 anos e sou um estudante dedicado de Engenharia de Software. Habituado com tecnologia desde novo, desenvolvi um grande interesse por programação. Estou comprometido em adquirir habilidades sólidas para contribuir significativamente nas diversas áreas profissionais da tecnologia da informação.</p>
 
 ###
 
