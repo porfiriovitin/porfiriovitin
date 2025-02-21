@@ -12,7 +12,7 @@
 
 ###
 
-<!-- <h2 align="center">My Stacks:</h2> -->
+<h2 align="center"></h2> 
 
 ###
 
