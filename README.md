@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I’m always striving to improve every day.<br><br>📚 I'm currently studying software engineer at FIAP.<br><br>🎯 Goals: Became a full stack developer and a software engineer<br><br>⚽ I'm a supporter of the biggest team in Minas Gerais, Cruzeiro.</p>
+<p align="center">✨I’m always striving to improve every day.<br><br>📚 I'm currently studying software engineer at FIAP.<br><br>🎯 Goals: Became a full stack developer and a software engineer<br><br>⚽ I'm a supporter of the biggest team in Minas Gerais, Cruzeiro.</p>
 
 ###
 
