@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<p align="left">Vamos nos conectar!</p>
+<p align="left">Let's connect!</p>
 
 ###
 
