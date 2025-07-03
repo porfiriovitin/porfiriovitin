@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software engineer Jr. who develops using Python and C#, focusing on backend systems and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</p>
+<p align="center">Junior Software Engineer who develops using Python and C#, focusing on backend systems and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=porfiriovitin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
