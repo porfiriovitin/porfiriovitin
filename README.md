@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Jr. software engineer  who develops using Python and C#, focusing on backend systems , AI and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</p>
+<p align="center">Jr. software engineer  who develops using Python, C# and Js/Ts, focusing on backend systems , AI and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</p>
 
 ###
 
