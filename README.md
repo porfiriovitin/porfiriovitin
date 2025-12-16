@@ -1,60 +1,68 @@
-<h2 align="center">Victor Hugo Porfirio - Software engineer 🚀</h2>
+<br clear="both">
 
-###
-
-<p align="center">Jr. software engineer  who develops using Python, C# and Js/Ts, focusing on backend systems , AI and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=porfiriovitin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Victor%20Hugo%20Porfirio&fontSize=64&fontColor=F4F4F4&fontAlign=50&fontAlignY=40&stroke=-&strokeWidth=0&desc=Software%20Enginner&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=0C2B4E"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h1 align="left"></h1>
+
+###
+
+<h4 align="center">Jr. software engineer focused on backend systems , AI and software architecture. I’m constantly learning and applying best practices to write clean, maintainable code while collaborating with teams to deliver high-quality products.</h4>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=porfiriovitin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h1 align="left"></h1>
 
 ###
 
-<p align="center">If I lose, I'll lose like Mbappé in the 2022 World Cup: giving it everything until the very end.</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
 <div align="center">
-  <img height="238" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl0dTA0NjV1MHM5YjFmMHZienMyNWZ5dXUwcGhuOXBtbDQ1OWZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ffg0kbu8XUxogkA1W3/giphy.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjYxZ3I0cGpyY2x2Zmg2YzU5bTlzajlheWZoeWttaDJmbzZ2dnFuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UhjS5NaaLkwx25ocK/giphy.gif"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">Let's connect !</p>
+<p align="left">Let's connect !!!</p>
 
 ###
 
