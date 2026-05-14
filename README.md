@@ -51,6 +51,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=light" width="120" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=370618&theme=light" width="120" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=928143&theme=light" width="120" />
+</div>
+
+###
+
 <h1 align="left"></h1>
 
 ###
