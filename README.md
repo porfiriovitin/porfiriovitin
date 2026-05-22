@@ -52,10 +52,10 @@
 ###
 
 <div align="center">
+  <img src="https://fiap-achievements.vercel.app/api/badge?theme=light&badge=challenge&year=2024&company=softtek&ranking=2" width="120"/>
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=light" width="120" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=370618&theme=light" width="120" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=928143&theme=light" width="120" />
-</div>
 
 ###
 
