@@ -22,9 +22,9 @@
 
 <br>
 
-# 💻 Tech Stack
+# 💻 Tech Stacks
 
-## 🚀 Frontend
+##  Frontend
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 </p>
 
-## ⚙️ Backend
+##  Backend
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -44,12 +44,22 @@
 </p>
 
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops-white&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+
+##  DevOps & Cloud
+<p>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <br>
@@ -58,7 +68,6 @@
 <p>
 <img src="https://fiap-achievements.vercel.app/api/badge?theme=light&badge=challenge&year=2024&company=softtek&ranking=2" width="120"/>
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=light" width="120" />
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=370618&theme=light" width="120" />
   <img src="https://fiap-achievements.vercel.app/api/badge?badge=928143&theme=light" width="120" />
 </p>
 
